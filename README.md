@@ -62,6 +62,10 @@ This website is for [Expo-sciences Hydro-Québec 2025 of the Réseau Technoscien
 
 Template is made by [Colorlib](https://colorlib.com/). See [template page](https://colorlib.com/wp/template/watch/)
 
+about-image.jpg Designed by [Freepik](https://www.freepik.com)
+
+Sensor images from [LilyGo](https://lilygo.cc/)
+
 ### Others
 
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
