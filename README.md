@@ -60,7 +60,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 This website is for [Expo-sciences Hydro-Québec 2025 of the Réseau Technoscience](https://technoscience.ca/expo-sciences-hydro-quebec-saison-2025/)
 
-Thanks to [bhavya0319](https://www.instagram.com/bhavya0319/) for the "Night city" room asset.
+Template is made by [Colorlib](https://colorlib.com/). See [template page](https://colorlib.com/wp/template/watch/)
 
 ### Others
 
